@@ -8,11 +8,11 @@ public class HelloWorld {
 		
 		System.out.print("\n");
   
-  for(int j=0;j<50;j++)
+  for(int j=0;j<20;j++)
   {
-	  for(int k=j;k<50;k++)
+	  for(int k=j;k<20;k++)
 	  {
-		  System.out.print(" $3  ");
+		  System.out.print(" * ");
 	  }
 		System.out.print("\n");  
   }
