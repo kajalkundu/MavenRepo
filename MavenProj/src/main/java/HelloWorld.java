@@ -4,9 +4,20 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		
 		
-		System.out.println("Hello world 123456");
+		System.out.println("This a maven program");
 		
-		System.out.println("Hello world !!! jhjkhk");
+		System.out.print("\n");
+  
+  for(int j=0;j<50;j++)
+  {
+	  for(int k=j;k<50;k++)
+	  {
+		  System.out.print(" $3  ");
+	  }
+		System.out.print("\n");  
+  }
+
+  System.out.println("----- END -------");
 
 	}
 
